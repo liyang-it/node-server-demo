@@ -1,9 +1,7 @@
 # Clone代码
 ``cmd
 git clone https://github.com/liyang-it/node-server-demo.git
-
 ```
-
 
 # 安装依赖
 
@@ -16,8 +14,9 @@ npm install
 ```cmd
 node app.js
 ```
-或者
 
+
+或者
 
 ```cmd
 npm start
